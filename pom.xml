@@ -231,7 +231,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>serviceApp</finalName>
+		<finalName>bootstrap-web</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.tomcat.maven</groupId>
